@@ -1,6 +1,15 @@
-Version 1.0.5
+Version 1.0.6-gnome3
 
- * Delete parenthesis in front of cursor when one before cursor is deleted.
+ * changes for gedit 3.8
+
+Version 1.0.5-gnome3
+
+ * Compatibility fixes for gnome 3 branch.
+ * Delete parenthesis in front of cursor when one before cursor is deleted
+
+Version 1.0.4-gnome3
+
+ * Created branch compatible with Gnome3. 
 
 Version 1.0.4
   
