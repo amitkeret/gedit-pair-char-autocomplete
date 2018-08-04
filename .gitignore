@@ -1,0 +1,6 @@
+.hg
+syntax: glob
+.DS_Store
+*.pyc
+.swp
+*~
